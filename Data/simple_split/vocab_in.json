@@ -1,0 +1,18 @@
+{
+    "<PAD>": 0,
+    "<START>": 1,
+    "<END>": 2,
+    "jump": 3,
+    "opposite": 4,
+    "right": 5,
+    "twice": 6,
+    "and": 7,
+    "turn": 8,
+    "thrice": 9,
+    "run": 10,
+    "left": 11,
+    "after": 12,
+    "walk": 13,
+    "around": 14,
+    "look": 15
+}

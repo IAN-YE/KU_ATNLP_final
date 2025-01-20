@@ -1,0 +1,11 @@
+{
+    "<PAD>": 0,
+    "<START>": 1,
+    "<END>": 2,
+    "I_TURN_RIGHT": 3,
+    "I_JUMP": 4,
+    "I_WALK": 5,
+    "I_TURN_LEFT": 6,
+    "I_RUN": 7,
+    "I_LOOK": 8
+}
